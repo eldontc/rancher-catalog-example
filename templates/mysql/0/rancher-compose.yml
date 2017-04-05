@@ -1,7 +1,7 @@
 .catalog:
-  name: "MYSQL"
+  name: "MYSQL do Eldon"
   version: "v1"
-  description: "My MYSQL Application Catalog"
+  description: "My MYSQL do Eldon"
   questions: 
     - variable: "MYSQL_ROOT_PASSWORD"
       label: "Mysql root password"
