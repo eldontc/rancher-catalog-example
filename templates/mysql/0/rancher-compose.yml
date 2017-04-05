@@ -30,3 +30,8 @@
       description: "Port that is going to be exposed in the host"
       required: true
       type: "string"
+    - variable: "VOLUME"
+      label: "Nome do volume para MySQL"
+      description: "dados do MySQL serao gravados aqui"
+      required: true
+      type: "string"
